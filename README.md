@@ -32,7 +32,7 @@ Agente inteligente via WhatsApp para atendimento e automação comercial da empr
 
 ## 📌 Fluxo do agente
 
-> Adicione aqui uma imagem do fluxo n8n:
+
 
 
 ![Fluxo do agente 1](https://github.com/user-attachments/assets/a7a18f01-055c-4270-b53c-a969e47074c7)
