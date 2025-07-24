@@ -37,4 +37,4 @@ Agente inteligente via WhatsApp para atendimento e automação comercial da empr
 
 ![Fluxo do agente 1](https://github.com/user-attachments/assets/a7a18f01-055c-4270-b53c-a969e47074c7)
 ![Fluxo do agente 2](https://github.com/user-attachments/assets/c77746b2-3304-4380-b6c1-53ba53e7cbde)
-![Fluxo do agente 3](https://github.com/user-attachments/assets/71886943-68ad-487e-a077-146d64b5972b)  
+[Fluxo do agente 4](https://github.com/user-attachments/assets/971398f6-85f8-45a3-bca3-19f730b691ce) 
